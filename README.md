@@ -1,8 +1,3 @@
-Absolutely — below is the **entire `README.md` file in plain text**, ready to **copy-paste directly into GitHub**.
-
----
-
-```
 # LISMS – Laboratory Information & Sample Management System
 
 A modern full-stack Laboratory Information & Sample Management System (LISMS) inspired by commercial LIMS platforms such as LabWare.  
